@@ -5,5 +5,5 @@ Open the repository in your IDE
 Replace the entire contents of the "README.md" file
 In GitHub Desktop:
 Choose a commit message ("Summary")
-Click on "Commit to develop"
+Click on "Modifié par Mathias"
 Use "Publish branch" to push your changes to the remote repository
